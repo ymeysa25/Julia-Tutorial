@@ -85,6 +85,7 @@ println(namedTuple2[:b])
 println("===========================================")
 
 # Dictionary
+addressBook = Dict()
 person1 = Dict("Name" => "Aurelio", "Phone" => 123456789, "Shoe-size" => 40)
 person2 = Dict("Name" => "Elena", "Phone" => 123456789, "Shoe-size" => 36)
 
